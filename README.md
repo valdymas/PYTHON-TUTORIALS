@@ -12,9 +12,12 @@ Are you new to programming or Python? Don't worry! The Foundations for Beginners
 
 #### Getting Started
 
-- 📖 Introduction to Python
-- 🛠️ Setting Up Your Environment
-- 🚀 Getting Started with Python
+1. [Installing python](basics/install-python.md)
+2. [Your first python program](basics/first-python-program.md)
+3. [Getting input](basics/getting-input.md)
+4. [Optional arguments](basics/optional-arguments.md)
+5. [Variables](basics/variables.md)
+6. [Data Types](basics/data-types.md)
 
 ## 🚧 Intermediate Skills Development
 
